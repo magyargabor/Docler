@@ -1,0 +1,252 @@
+﻿2017-11-28T22:19:22.3620046+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-11-28T22:19:22.4520086+01:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-11-28T22:19:22.4520086+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Gabesz\Documents\Visual Studio 2015\Projects\DoclerTest\DoclerTest\bin\Debug\DoclerTest.dll
+2017-11-28T22:19:22.4530096+01:00;VSTestExecutionThread;Info;Profile: Default
+2017-11-28T22:19:31.6259066+01:00;Thread#16;Info;Discovering target: Default
+2017-11-28T22:19:31.6269060+01:00;Thread#16;Info;Discovering tests from assembly: C:\Users\Gabesz\Documents\Visual Studio 2015\Projects\DoclerTest\DoclerTest\bin\Debug\DoclerTest.dll
+Appdomain Disposed
+Test Suite Dump
+#0: DoclerTest/Default - 
+#1: Default - 
+#3: DoclerTest - 
+#4: DoclerTest.HomePageTests.HomeButtonStatusFeature - 
+#6: DoclerTest.HomePageTests.HomePageLogoFeature - 
+#8: DoclerTest.HomePageTests.HomeButtonNavigateFeature - 
+#10: DoclerTest.HomePageTests.HomePageTitleFeature - 
+#12: DoclerTest.HomePageTests.HomeTextSiteFeature - 
+#14: DoclerTest.HomePageTests.HomeTextWelcomeFeature - 
+#16: DoclerTest.HomePageTests.UiTestingButtonNavigateFeature - 
+#18: DoclerTest.FormPageTests.FormBoxAndButtonFeature - 
+#20: DoclerTest.FormPageTests.FormButtonNavigateFeature - 
+#22: DoclerTest.FormPageTests.FormButtonStatusFeature - 
+#24: DoclerTest.FormPageTests.FormHelloPageFeature - 
+#30: DoclerTest.FormPageTests.FormPageLogoFeature - 
+#32: DoclerTest.FormPageTests.FormPageTitleFeature - 
+#34: DoclerTest.ErrorPageTests.ErrorPageHttpResponseFeature - 
+#36: DoclerTest.ErrorPageTests.ErrorPageLogoFeature - 
+#38: DoclerTest.ErrorPageTests.ErrorPageTitleFeature - 
+#5: CheckingHomeButtonStatus - TestAssembly:DoclerTest/TestClass:DoclerTest.HomePageTests.HomeButtonStatusFeature/TestMethod:CheckingHomeButtonStatus
+#7: CheckingHomePageLogo - TestAssembly:DoclerTest/TestClass:DoclerTest.HomePageTests.HomePageLogoFeature/TestMethod:CheckingHomePageLogo
+#9: CheckingHomeButtonNavigation - TestAssembly:DoclerTest/TestClass:DoclerTest.HomePageTests.HomeButtonNavigateFeature/TestMethod:CheckingHomeButtonNavigation
+#11: CheckingHomePageTitle - TestAssembly:DoclerTest/TestClass:DoclerTest.HomePageTests.HomePageTitleFeature/TestMethod:CheckingHomePageTitle
+#13: CheckingHomePageSiteText - TestAssembly:DoclerTest/TestClass:DoclerTest.HomePageTests.HomeTextSiteFeature/TestMethod:CheckingHomePageSiteText
+#15: CheckingHomePageWelcomeText - TestAssembly:DoclerTest/TestClass:DoclerTest.HomePageTests.HomeTextWelcomeFeature/TestMethod:CheckingHomePageWelcomeText
+#17: CheckingUiTestingButtonNavigation - TestAssembly:DoclerTest/TestClass:DoclerTest.HomePageTests.UiTestingButtonNavigateFeature/TestMethod:CheckingUiTestingButtonNavigation
+#19: CheckingFormBoxAndButtonIsVisible - TestAssembly:DoclerTest/TestClass:DoclerTest.FormPageTests.FormBoxAndButtonFeature/TestMethod:CheckingFormBoxAndButtonIsVisible
+#21: CheckingFormButtonNavigation - TestAssembly:DoclerTest/TestClass:DoclerTest.FormPageTests.FormButtonNavigateFeature/TestMethod:CheckingFormButtonNavigation
+#23: CheckingFormButtonStatus - TestAssembly:DoclerTest/TestClass:DoclerTest.FormPageTests.FormButtonStatusFeature/TestMethod:CheckingFormButtonStatus
+#25: CheckingFormInputValues - 
+#31: CheckingFormPageLogo - TestAssembly:DoclerTest/TestClass:DoclerTest.FormPageTests.FormPageLogoFeature/TestMethod:CheckingFormPageLogo
+#33: CheckingFormPageTitle - TestAssembly:DoclerTest/TestClass:DoclerTest.FormPageTests.FormPageTitleFeature/TestMethod:CheckingFormPageTitle
+#35: CheckingErrorPageHttpResponse - TestAssembly:DoclerTest/TestClass:DoclerTest.ErrorPageTests.ErrorPageHttpResponseFeature/TestMethod:CheckingErrorPageHttpResponse
+#37: CheckingErrorPageLogo - TestAssembly:DoclerTest/TestClass:DoclerTest.ErrorPageTests.ErrorPageLogoFeature/TestMethod:CheckingErrorPageLogo
+#39: CheckingErrorPageTitle - TestAssembly:DoclerTest/TestClass:DoclerTest.ErrorPageTests.ErrorPageTitleFeature/TestMethod:CheckingErrorPageTitle
+#26: CheckingFormInputValues("John","Hello John!",null) - TestAssembly:DoclerTest/TestClass:DoclerTest.FormPageTests.FormHelloPageFeature/ParameterizedTest:CheckingFormInputValues/TestMethod:CheckingFormInputValues(%22John%22%2c%22Hello+John!%22%2cnull)
+#27: CheckingFormInputValues("Sophia","Hello Sophia!",null) - TestAssembly:DoclerTest/TestClass:DoclerTest.FormPageTests.FormHelloPageFeature/ParameterizedTest:CheckingFormInputValues/TestMethod:CheckingFormInputValues(%22Sophia%22%2c%22Hello+Sophia!%22%2cnull)
+#28: CheckingFormInputValues("Charlie","Hello Charlie!",null) - TestAssembly:DoclerTest/TestClass:DoclerTest.FormPageTests.FormHelloPageFeature/ParameterizedTest:CheckingFormInputValues/TestMethod:CheckingFormInputValues(%22Charlie%22%2c%22Hello+Charlie!%22%2cnull)
+#29: CheckingFormInputValues("Emily","Hello Emily!",null) - TestAssembly:DoclerTest/TestClass:DoclerTest.FormPageTests.FormHelloPageFeature/ParameterizedTest:CheckingFormInputValues/TestMethod:CheckingFormInputValues(%22Emily%22%2c%22Hello+Emily!%22%2cnull)
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #5 from normal test queue 
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for DoclerTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\Gabesz\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.7.0-rc001\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #5/0 is started on thread #0
+Thread#0:TestItem#5:Scheduler: reschedule tests for testitem #5
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 1
+Thread#0: Test #5/0 is finished on thread #0 as Failed within 0,0310019 seconds
+Thread#0: Test #5/1 is started on thread #0
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 2
+Thread#0: Test #5/1 is finished on thread #0 as Failed within 0,0040004 seconds
+Thread#0: Test #5/2 is started on thread #0
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #7 from normal test queue 
+Thread#0:Scheduler: considering testitem #7 for thread 0
+Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #7 for thread 0
+Thread#0:Scheduler: Test #7 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #5/2 is finished on thread #0 as Failed within 0,0030008 seconds
+Thread#0: Test #7/0 is started on thread #0
+Thread#0:TestItem#7:Scheduler: reschedule tests for testitem #7
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #7
+Thread#0:Scheduler: considering testitem #7 for thread 0
+Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #7 for thread 0
+Thread#0:Scheduler: Test #7 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 1
+Thread#0: Test #7/0 is finished on thread #0 as Failed within 0,0040001 seconds
+Thread#0: Test #7/1 is started on thread #0
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #7
+Thread#0:Scheduler: considering testitem #7 for thread 0
+Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #7 for thread 0
+Thread#0:Scheduler: Test #7 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 2
+Thread#0: Test #7/1 is finished on thread #0 as Failed within 0,002 seconds
+Thread#0: Test #7/2 is started on thread #0
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #9 from normal test queue 
+Thread#0:Scheduler: considering testitem #9 for thread 0
+Thread#0:TestItem#9:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#9:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#9:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #9 for thread 0
+Thread#0:Scheduler: Test #9 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #7/2 is finished on thread #0 as Failed within 0,0020009 seconds
+Thread#0: Test #9/0 is started on thread #0
+Cancelling because configured number of failures reached
+Thread#0: Test #9/0 is finished on thread #0 as Failed within 0,0040007 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: testitem #11 from normal test queue 
+Thread#-1:Scheduler: considering testitem #11 for thread -1
+Thread#-1:Scheduler: using testitem #11 for thread -1
+Thread#-1:Scheduler: Test #11 is scheduled for thread
+Thread#-1: Test #11/0 is started on thread #-1
+Thread#-1: Test #11/0 is finished on thread #-1 as Skipped within 0 seconds
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: testitem #13 from normal test queue 
+Thread#-1:Scheduler: considering testitem #13 for thread -1
+Thread#-1:Scheduler: using testitem #13 for thread -1
+Thread#-1:Scheduler: Test #13 is scheduled for thread
+Thread#-1: Test #13/0 is started on thread #-1
+Thread#-1: Test #13/0 is finished on thread #-1 as Skipped within 0 seconds
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: testitem #15 from normal test queue 
+Thread#-1:Scheduler: considering testitem #15 for thread -1
+Thread#-1:Scheduler: using testitem #15 for thread -1
+Thread#-1:Scheduler: Test #15 is scheduled for thread
+Thread#-1: Test #15/0 is started on thread #-1
+Thread#-1: Test #15/0 is finished on thread #-1 as Skipped within 0 seconds
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: testitem #17 from normal test queue 
+Thread#-1:Scheduler: considering testitem #17 for thread -1
+Thread#-1:Scheduler: using testitem #17 for thread -1
+Thread#-1:Scheduler: Test #17 is scheduled for thread
+Thread#-1: Test #17/0 is started on thread #-1
+Thread#-1: Test #17/0 is finished on thread #-1 as Skipped within 0 seconds
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: testitem #19 from normal test queue 
+Thread#-1:Scheduler: considering testitem #19 for thread -1
+Thread#-1:Scheduler: using testitem #19 for thread -1
+Thread#-1:Scheduler: Test #19 is scheduled for thread
+Thread#-1: Test #19/0 is started on thread #-1
+Thread#-1: Test #19/0 is finished on thread #-1 as Skipped within 0 seconds
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: testitem #21 from normal test queue 
+Thread#-1:Scheduler: considering testitem #21 for thread -1
+Thread#-1:Scheduler: using testitem #21 for thread -1
+Thread#-1:Scheduler: Test #21 is scheduled for thread
+Thread#-1: Test #21/0 is started on thread #-1
+Thread#-1: Test #21/0 is finished on thread #-1 as Skipped within 0 seconds
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: testitem #23 from normal test queue 
+Thread#-1:Scheduler: considering testitem #23 for thread -1
+Thread#-1:Scheduler: using testitem #23 for thread -1
+Thread#-1:Scheduler: Test #23 is scheduled for thread
+Thread#-1: Test #23/0 is started on thread #-1
+Thread#-1: Test #23/0 is finished on thread #-1 as Skipped within 0 seconds
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: testitem #31 from normal test queue 
+Thread#-1:Scheduler: considering testitem #31 for thread -1
+Thread#-1:Scheduler: using testitem #31 for thread -1
+Thread#-1:Scheduler: Test #31 is scheduled for thread
+Thread#-1: Test #31/0 is started on thread #-1
+Thread#-1: Test #31/0 is finished on thread #-1 as Skipped within 0 seconds
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: testitem #33 from normal test queue 
+Thread#-1:Scheduler: considering testitem #33 for thread -1
+Thread#-1:Scheduler: using testitem #33 for thread -1
+Thread#-1:Scheduler: Test #33 is scheduled for thread
+Thread#-1: Test #33/0 is started on thread #-1
+Thread#-1: Test #33/0 is finished on thread #-1 as Skipped within 0 seconds
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: testitem #35 from normal test queue 
+Thread#-1:Scheduler: considering testitem #35 for thread -1
+Thread#-1:Scheduler: using testitem #35 for thread -1
+Thread#-1:Scheduler: Test #35 is scheduled for thread
+Thread#-1: Test #35/0 is started on thread #-1
+Thread#-1: Test #35/0 is finished on thread #-1 as Skipped within 0 seconds
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: testitem #37 from normal test queue 
+Thread#-1:Scheduler: considering testitem #37 for thread -1
+Thread#-1:Scheduler: using testitem #37 for thread -1
+Thread#-1:Scheduler: Test #37 is scheduled for thread
+Thread#-1: Test #37/0 is started on thread #-1
+Thread#-1: Test #37/0 is finished on thread #-1 as Skipped within 0 seconds
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: testitem #39 from normal test queue 
+Thread#-1:Scheduler: considering testitem #39 for thread -1
+Thread#-1:Scheduler: using testitem #39 for thread -1
+Thread#-1:Scheduler: Test #39 is scheduled for thread
+Thread#-1: Test #39/0 is started on thread #-1
+Thread#-1: Test #39/0 is finished on thread #-1 as Skipped within 0 seconds
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: testitem #26 from normal test queue 
+Thread#-1:Scheduler: considering testitem #26 for thread -1
+Thread#-1:Scheduler: using testitem #26 for thread -1
+Thread#-1:Scheduler: Test #26 is scheduled for thread
+Thread#-1: Test #26/0 is started on thread #-1
+Thread#-1: Test #26/0 is finished on thread #-1 as Skipped within 0 seconds
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: testitem #27 from normal test queue 
+Thread#-1:Scheduler: considering testitem #27 for thread -1
+Thread#-1:Scheduler: using testitem #27 for thread -1
+Thread#-1:Scheduler: Test #27 is scheduled for thread
+Thread#-1: Test #27/0 is started on thread #-1
+Thread#-1: Test #27/0 is finished on thread #-1 as Skipped within 0 seconds
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: testitem #28 from normal test queue 
+Thread#-1:Scheduler: considering testitem #28 for thread -1
+Thread#-1:Scheduler: using testitem #28 for thread -1
+Thread#-1:Scheduler: Test #28 is scheduled for thread
+Thread#-1: Test #28/0 is started on thread #-1
+Thread#-1: Test #28/0 is finished on thread #-1 as Skipped within 0 seconds
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: testitem #29 from normal test queue 
+Thread#-1:Scheduler: considering testitem #29 for thread -1
+Thread#-1:Scheduler: using testitem #29 for thread -1
+Thread#-1:Scheduler: Test #29 is scheduled for thread
+Thread#-1: Test #29/0 is started on thread #-1
+Thread#-1: Test #29/0 is finished on thread #-1 as Skipped within 0 seconds
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 19 (test executions: 23)
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 16
+Failed: 3
